@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="justify">
 
-<!--
-**febri4n/febri4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hi there 👋
+      <br>
+        I'm a DevOps engineer with a deep love for Linux, automation, and scalable infrastructure.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=2EA043&center=true&width=410&height=45&lines=I+automate+DevOps+workflows+with+style.;I+containerize+code+with+beautiful+Dockerfiles.;I+manage+servers+with+artistic+precision.">
+      <br>
+      <b>
+        ~ Febrian ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
