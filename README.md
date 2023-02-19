@@ -10,7 +10,7 @@
         I'm a DevOps engineer with a deep love for Linux, automation, and scalable infrastructure.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=2EA043&center=true&width=410&height=45&lines=I+automate+DevOps+workflows+with+style.;I+containerize+code+with+beautiful+Dockerfiles.;I+manage+servers+with+artistic+precision.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=58A6FF&center=true&width=410&height=45&lines=I+automate+DevOps+workflows+with+style.;I+containerize+code+with+beautiful+Dockerfiles.;I+manage+servers+with+artistic+precision.">
       <br>
       <b>
         ~ Febrian ~
